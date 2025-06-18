@@ -1,9 +1,127 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5">
   <diagram name="第 1 页" id="RajWFViMPmjFbBXTySZg">
-    <mxGraphModel>
+    <mxGraphModel dx="1055" dy="1454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-1" value="城北区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="-222" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-5" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-3" target="kBxTNqgfzR1XNTAzLRre-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-3" target="kBxTNqgfzR1XNTAzLRre-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-232.46153846153857" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-3" value="锦屏水厂" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-422" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-4" target="kBxTNqgfzR1XNTAzLRre-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="-315.53846153846166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-4" value="桐树垭水厂" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-8" value="&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;城南区&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-19" target="kBxTNqgfzR1XNTAzLRre-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.93999999999994" y="-245.99999999999994" as="sourcePoint" />
+            <mxPoint x="239.62" y="-154.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-15" target="kBxTNqgfzR1XNTAzLRre-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-15" value="&#xa;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot; data-mx-given-colors=&quot;{&amp;quot;background-color&amp;quot;:&amp;quot;rgb(255, 255, 255)&amp;quot;}&quot;&gt;一二期出水&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot; data-mx-given-colors=&quot;{&amp;quot;background-color&amp;quot;:&amp;quot;rgb(255, 255, 255)&amp;quot;}&quot;&gt;231212060&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot; data-mx-given-colors=&quot;{&amp;quot;background-color&amp;quot;:&amp;quot;rgb(255, 255, 255)&amp;quot;}&quot;&gt;DN1000&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-362" width="76" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-19" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-19" value="&lt;div&gt;三期出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;230310281&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="45" y="-308" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-20" target="kBxTNqgfzR1XNTAzLRre-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-20" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;三期往锦屏大道&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;DN800&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;43810365&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="208.9999999999999" y="-279.00000000000006" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-24" target="kBxTNqgfzR1XNTAzLRre-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-24" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="585" y="-327.99846153846164" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-26" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-26" value="&lt;div&gt;一二期过河&lt;/div&gt;&lt;div&gt;DN800&lt;/div&gt;&lt;div&gt;34520121&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="202" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-27" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-27" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-28" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-28" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="435" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-29" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-29" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-30" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-30" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="672" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-31" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="899" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-32" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-32" value="&lt;div&gt;水厂出水&lt;/div&gt;&lt;div&gt;DN1200&lt;/div&gt;&lt;div&gt;01161214&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="779" y="-136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.394;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-1" target="kBxTNqgfzR1XNTAzLRre-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBxTNqgfzR1XNTAzLRre-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.946;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kBxTNqgfzR1XNTAzLRre-31" target="kBxTNqgfzR1XNTAzLRre-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
